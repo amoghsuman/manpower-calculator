@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/manpower-calculator/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/manpower-calculator/static/js/main.8db10ae2.chunk.js",
+    "main.js.map": "/manpower-calculator/static/js/main.8db10ae2.chunk.js.map",
+    "runtime~main.js": "/manpower-calculator/static/js/runtime~main.1f957475.js",
+    "runtime~main.js.map": "/manpower-calculator/static/js/runtime~main.1f957475.js.map",
+    "static/js/2.ae026ab9.chunk.js": "/manpower-calculator/static/js/2.ae026ab9.chunk.js",
+    "static/js/2.ae026ab9.chunk.js.map": "/manpower-calculator/static/js/2.ae026ab9.chunk.js.map",
+    "static/js/3.6757c1ca.chunk.js": "/manpower-calculator/static/js/3.6757c1ca.chunk.js",
+    "static/js/3.6757c1ca.chunk.js.map": "/manpower-calculator/static/js/3.6757c1ca.chunk.js.map",
+    "index.html": "/manpower-calculator/index.html",
+    "precache-manifest.f6e81b2c99bae54c41876c6d6efbcb17.js": "/manpower-calculator/precache-manifest.f6e81b2c99bae54c41876c6d6efbcb17.js",
+    "service-worker.js": "/manpower-calculator/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/manpower-calculator/static/css/main.5ecd60fb.chunk.css.map"
+  }
+}
